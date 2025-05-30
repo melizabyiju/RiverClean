@@ -62,5 +62,29 @@ Water pollution in rivers is a critical environmental issue, often going unrepor
 ---
 ##  Run Instructions
 
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/melizabyiju/RiverClean.git
+    cd riverclean
+    ```
+2. **Set up a virtual environment :**
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+3. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the Flask app:**
+    ```bash
+    python app.py
+    ```
+    - The app will be available at [http://localhost:5000](http://localhost:5000)
+
+
+---
+
+
 
 

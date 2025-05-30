@@ -51,14 +51,16 @@ Water pollution in rivers is a critical environmental issue, often going unrepor
 
 ##  Screenshots
 
-RiverClean Home Page ![Screenshot 2025-05-30 183521](https://github.com/user-attachments/assets/10ddb504-a9c9-43b9-b79b-c58a96194889)
+### RiverClean Home Page ![Screenshot 2025-05-30 183521](https://github.com/user-attachments/assets/10ddb504-a9c9-43b9-b79b-c58a96194889)
 
-Upload ![Screenshot 2025-05-30 183559](https://github.com/user-attachments/assets/600543aa-c517-4d85-a7c3-06be61aa94c5)
+### Upload ![Screenshot 2025-05-30 183559](https://github.com/user-attachments/assets/600543aa-c517-4d85-a7c3-06be61aa94c5)
 
-Result ![Screenshot 2025-05-30 183632](https://github.com/user-attachments/assets/de3404ba-04de-4caa-918c-a8a0759fcf50)
+### Result ![Screenshot 2025-05-30 183632](https://github.com/user-attachments/assets/de3404ba-04de-4caa-918c-a8a0759fcf50)
 
-Rewards ![Screenshot 2025-05-30 183711](https://github.com/user-attachments/assets/0c9c225d-1162-4b3d-a279-fa05515f4da0)
+### Rewards ![Screenshot 2025-05-30 183711](https://github.com/user-attachments/assets/0c9c225d-1162-4b3d-a279-fa05515f4da0)
 
 ---
 ##  Run Instructions
+
+
 

@@ -65,7 +65,7 @@ Water pollution in rivers is a critical environmental issue, often going unrepor
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/melizabyiju/RiverClean.git
-    cd riverclean
+    cd RiverClean
     ```
 2. **Set up a virtual environment :**
     ```bash
